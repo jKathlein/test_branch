@@ -1,6 +1,10 @@
-Bebidas da Manu
 
+'chocolate'
+'suco'
+'maracuja'
+Bebidas da Manu
 Refrigerante
 suco de goiaba
 coca-cola
 vinho
+
