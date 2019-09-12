@@ -7,4 +7,5 @@ Refrigerante
 suco de goiaba
 coca-cola
 vinho
-churros
+cerveja
+chá
