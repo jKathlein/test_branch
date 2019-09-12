@@ -1,4 +1,3 @@
-
 'chocolate'
 'suco'
 'maracuja'
@@ -9,3 +8,8 @@ coca-cola
 vinho
 cerveja
 chá
+churros
+coca-cola
+suco
+energetico
+
